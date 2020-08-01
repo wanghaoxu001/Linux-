@@ -1,0 +1,18 @@
+20岁以下球员数量及百分比: 9 | 1.22%
+[20岁-30岁]的球员数量及百分比: 600 | 81.52%
+30岁以上球员数量及百分比: 127 | 17.25%
+Goalie球员数量及百分比 : 96 | 13.04%
+Defender球员数量及百分比 : 237 | 32.20%
+Middle球员数量及百分比 : 268 | 36.41%
+Forward球员数量及百分比 : 135 | 18.34%
+名字最长的球员有 :
+Francisco Javier Rodriguez
+Lazaros Christodoulopoulos
+Liassine Cadamuro-Bentaeba
+名字最短的球员有 :
+Jô
+年龄最大的球员有:
+Faryd Mondragon
+年龄最小的球员有:
+Fabrice Olinga
+Luke Shaw
